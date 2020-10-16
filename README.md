@@ -2,4 +2,4 @@
 
 A ruby console implementation of the classic hangman game
 
-[![Run on Repl.it](https://repl.it/badge/github/NicoMunoz909/Hangman)](https://repl.it/github/NicoMunoz909/Hangman)
+[![Run on Repl.it](https://repl.it/badge/github/NicoMunoz909/Hangman)](https://Hangman.nicomunoz909.repl.run)
